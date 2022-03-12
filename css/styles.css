@@ -137,9 +137,9 @@ input:focus {
 /* animatied background */
 .win {
   padding: 0 1em;
-  background: linear-gradient(-45deg, #ff9d64, #f5620c);
+  background: linear-gradient(-45deg, #fff321, #f5620c);
   background-size: 400% 400%;
-  animation: gradient 2s ease infinite;
+  animation: gradient .5s ease infinite;
 }
 
 @keyframes gradient {
